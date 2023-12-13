@@ -75,6 +75,7 @@ Balraj
 - [Hardik Jogadia] (https://github.com/hardikjogadia)
 - [Raj Mayekar](https://github.com/MayekarRaj)
 - [Akshika Jain]
+- Akhil Mathew
 - [Yashwanth Kothakota](https://github.com/yashwanthkothakota9)
 - [Solomon Asregdew](https://github.com/SolomonAHailu)
 - [Vimal 140704]
